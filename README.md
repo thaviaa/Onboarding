@@ -10,6 +10,7 @@ Work on **Software flow(Employee Onboarding)**: the *Add/Modify User - Software 
 | `actions/software_list_to_support_group_tasks.js` | Refactored drop-in replacement for that action |
 | `actions/copy_variables_to_task.js` | Shared action, same file as in `thaviaa/offboarding` |
 | `docs/refactor-notes.md` | What changed, properties, test plan |
+| `docs/user-story-refactor.md` | User story with acceptance criteria |
 
 ## How onboarding software tasks are created
 
